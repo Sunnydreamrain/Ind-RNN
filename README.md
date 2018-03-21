@@ -7,6 +7,6 @@ arXiv:https://arxiv.org/abs/1803.04831
 
 Main Points:
 
-https://github.com/zhangxu0307/Ind-RNN/blob/master/image/formula1.PNG
+https://raw.githubusercontent.com/zhangxu0307/Ind-RNN/master/image/formula1.PNG
 
-https://github.com/zhangxu0307/Ind-RNN/blob/master/image/IndRNN.PNG
+https://raw.githubusercontent.com/zhangxu0307/Ind-RNN/master/image/IndRNN.PNG
